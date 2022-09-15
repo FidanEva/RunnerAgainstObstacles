@@ -22,10 +22,5 @@ namespace RunnerAgainstObstacle.Scripts
                 playerMovement.Die();
             }
         }
-
-        private void Update()
-        {
-
-        }
     }
 }
